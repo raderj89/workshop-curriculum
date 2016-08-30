@@ -1,6 +1,6 @@
 <!--{ ids:[132], language:'JavaScript', type:'workshop', order: 0, name:'Variables I', description:'Create a variable and store data' } -->
 
-### Objectiv
+### Objectives
 
 After this exercise, you should be able to:
 
