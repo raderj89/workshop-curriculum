@@ -1,6 +1,6 @@
 <!--{ ids:[132], language:'JavaScript', type:'workshop', order: 0, name:'Variables I', description:'Create a variable and store data' } -->
 
-### Objectiveszz
+### Objectives
 
 After this exercise, you should be able to:
 
@@ -12,7 +12,7 @@ After this exercise, you should be able to:
 
 ### Example
 
-In JavaScript, __variables__ store data. To declare a variable, use the `var` keyword followed by the name of the variable:
+In JavaScript, variables store data. To declare a variable, use the `var` keyword followed by the name of the variable:
 
 ```js
 var numberOfOceans;
